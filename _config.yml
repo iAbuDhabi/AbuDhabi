@@ -43,7 +43,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "RASHED ALMANSOORI"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
@@ -80,9 +80,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
+      read_time: false
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
